@@ -35,7 +35,8 @@ una vez instalado abrira el menu-aprs para que configure y ponga en marcha su ig
 
 desde su terminal o consola ssh ejecute el bash de auto instalacion 
 
-    sudo bash -c "$(wget -O - https://github.com/hp3icc/d-aprs/raw/main/install.sh)"
+    sudo bash -c "$(wget -O - https://raw.githubusercontent.com/wiblingen/D-APRS--ea5gvk/refs/heads/main/install.sh)"
+    
 
 #
 
